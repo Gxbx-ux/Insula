@@ -282,3 +282,6 @@ public sealed class JanelaJogo : Form
         public PainelTabuleiro() { DoubleBuffered = true; ResizeRedraw = true; }
     }
 }
+
+// Copyright (C) 2026 Gxbx-ux
+// Licensed under the GNU AGPLv3
